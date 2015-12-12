@@ -4,36 +4,29 @@
   fill: rgb(178, 186, 194);
   margin-left: 5px;
 }
-
 .circle-right {
   height: 25px;
   width: 25px;
   fill: rgb(178, 186, 194);
 }
-
 .circle-user {
   height: 24px;
   width: 24px;
   fill: rgb(178, 186, 194);
 }
-
-
 .header {
-  box-shadow: 0 2px 1px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.2);
   height: 60px;
 }
-
 body {
   background-color: rgb(237, 239, 240);
 }
-
 h2 {
   font-size: 19px;
   font-family: 'Varela Round', Helvetica, Arial, sans-serif;
   font-weight: bold;
   color: rgb(56, 64, 71);
 }
-
 .left-right-borders {
   text-align: center;
   width: 55px;
@@ -41,17 +34,38 @@ h2 {
   border-left: solid 1px rgb(178, 186, 194);
   border-right: solid 1px rgb(178, 186, 194);
 }
-
 .right-nav {
   margin-top: 10px;
 }
-
 .content-section {
-  background: #fff;
+  margin-top: 10px;
+  background-color: #fff;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
 }
-
+.content-buttons {
+  clear: both;
+}
+.content-header {
+  height: 45px;
+  color: #fff;
+}
+.java {
+  background-color: #2c9676;
+}
+.python {
+  background-color: rgb(240, 146, 176);
+}
+.wordpress {
+    background-color: #838CC7;
+}
 .circle-play {
   height: 40px;
   width: 40px;
   fill: rgb(178, 186, 194);
+}
+.star {
+height: 30px;
+width: 30px;
+fill: rgb(178, 186, 194);
 }

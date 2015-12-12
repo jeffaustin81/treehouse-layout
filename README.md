@@ -6,7 +6,7 @@
 
 ## Description
 
-_This practice project is unfinished at the moment_
+_This practice project is unfinished at the moment!_
 
 ## Technologies Used
 
